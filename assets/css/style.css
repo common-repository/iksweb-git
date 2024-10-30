@@ -1,0 +1,9 @@
+/*
+Author URI: https://iksweb.ru/plugins/git/
+Author: Сергей Князев
+*/
+#toplevel_page_iks-git .dashicons-admin-generic:before { content: ""; background: url(../img/git.png) no-repeat center center!important; background-size: 100% 100%!important; position: relative; margin: 0; width: 20px; height: 20px; padding: 0; top: 6px; }
+.toplevel_page_iks-git .dashicons-admin-generic:before{    margin: 0 2px 0 0;}
+.git-icon { background: url(../img/git.png) no-repeat center left!important; display: block; background-size: 20px 20px!important; padding: 0 0 0 20px!important; margin: 0 0 0 10px!important; }
+.adm-detail-content-wrap code{ background: #dde1e1; width: 100%; display: block; padding: 10px; }
+#toplevel_page_iks-git a[href="admin.php?page=iks-pro-git"] { font-weight: bold; color: #00ff08; }
